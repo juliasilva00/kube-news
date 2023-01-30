@@ -1,0 +1,4 @@
+
+do_token = "<DO_TOKEN_VALUE>"
+region   = "REGION_VALUE"
+ssh_key  = "SSH_KEY_MODEL"
